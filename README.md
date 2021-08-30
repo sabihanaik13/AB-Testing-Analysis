@@ -1,5 +1,3 @@
-# AB-Testing-Analysis
-
 # Analyze A/B Test Results 
 
 ## Introduction for the project 
